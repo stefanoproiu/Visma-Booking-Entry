@@ -1,0 +1,11 @@
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\bin\Debug\VismaBooking.exe.config
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.csprojResolveAssemblyReference.cache
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.Properties.Resources.resources
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.csproj.GenerateResource.Cache
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\bin\Debug\VismaBooking.exe
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\bin\Debug\VismaBooking.pdb
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.exe
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.pdb
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.LoginForm.resources
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.RegisterForm.resources
+D:\Facultate\C# Projects\VismaBooking\VismaBooking\VismaBooking\obj\Debug\VismaBooking.GUI.MainStage.resources
